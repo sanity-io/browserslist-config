@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@sanity/browserslist-config.svg?style=flat-square)](https://www.npmjs.com/package/@sanity/browserslist-config)
 
 ```sh
-npm install @sanity/browserslist-config
+npm install --save-dev @sanity/browserslist-config
 ```
 
 This package is used together with [`@sanity/pkg-utils`], and any other packages that supports [`browserslist`]. Add the `browserslist` key to your `package.json`.
