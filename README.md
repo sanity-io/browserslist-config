@@ -11,7 +11,7 @@ This package is used together with [`@sanity/pkg-utils`], and any other packages
 
 ```diff
    "author": "Sanity.io <hello@sanity.io>",
-+  "browserslist": "extends @github/browserslist-config",
++  "browserslist": "extends @sanity/browserslist-config",
    "files": {
 ```
 
