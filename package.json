@@ -36,7 +36,6 @@
     "prettier": "prettier --ignore-path .gitignore",
     "test": "node --test"
   },
-  "browserslist": "extends @sanity/browserslist-config",
   "prettier": {
     "bracketSpacing": false,
     "plugins": [
