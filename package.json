@@ -1,6 +1,6 @@
 {
   "name": "@sanity/browserslist-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sanity.io Browserslist shared configuration",
   "keywords": [
     "sanity",
