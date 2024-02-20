@@ -1,4 +1,4 @@
-// https://browsersl.ist/#q=%3E+0.2%25+and+not+dead+and+supports+es6-module+and+supports+es6-module-dynamic-import%2C%0Amaintained+node+versions
+// https://browsersl.ist/#q=%3E+0.2%25+and+not+dead+and+fully+supports+es6-module+and+fully+supports+es6-module-dynamic-import+and+not+iOS+%3C+13%2C%0Amaintained+node+versions
 
 module.exports = [
   // We try to support most markets while also scoping it to browsers that fully supports ESM, and can natively call import()
