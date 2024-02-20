@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/sanity-io/browserslist-config/compare/v1.0.1...v1.0.2) (2024-02-20)
+
+
+### Bug Fixes
+
+* drop iOS older than v13 ([e7b3a71](https://github.com/sanity-io/browserslist-config/commit/e7b3a71f591ed654b5f79a426fa1e5e35df2f6d3))
+
 ## [1.0.1](https://github.com/sanity-io/browserslist-config/compare/v1.0.0...v1.0.1) (2024-02-07)
 
 
