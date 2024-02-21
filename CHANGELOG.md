@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/sanity-io/browserslist-config/compare/v1.0.2...v1.0.3) (2024-02-21)
+
+
+### Bug Fixes
+
+* revert `and not iOS &lt; 13` ([646c04b](https://github.com/sanity-io/browserslist-config/commit/646c04bcc4dd0222b2d7a777a83047529c0e644a))
+
 ## [1.0.2](https://github.com/sanity-io/browserslist-config/compare/v1.0.1...v1.0.2) (2024-02-20)
 
 
