@@ -36,20 +36,12 @@
     "prettier": "prettier --ignore-path .gitignore",
     "test": "node --test"
   },
-  "prettier": {
-    "bracketSpacing": false,
-    "plugins": [
-      "prettier-plugin-packagejson"
-    ],
-    "printWidth": 98,
-    "semi": false,
-    "singleQuote": true
-  },
+  "prettier": "@sanity/prettier-config",
   "devDependencies": {
+    "@sanity/prettier-config": "^1.0.2",
     "browserslist": "^4.23.0",
     "browserslist-lint": "^0.3.3",
-    "prettier": "^3.2.5",
-    "prettier-plugin-packagejson": "^2.5.0"
+    "prettier": "^3.2.5"
   },
   "publishConfig": {
     "access": "public"
