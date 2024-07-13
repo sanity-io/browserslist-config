@@ -39,9 +39,9 @@
   "prettier": "@sanity/prettier-config",
   "devDependencies": {
     "@sanity/prettier-config": "^1.0.2",
-    "browserslist": "^4.23.0",
+    "browserslist": "^4.23.2",
     "browserslist-lint": "^0.3.3",
-    "prettier": "^3.2.5"
+    "prettier": "^3.3.3"
   },
   "publishConfig": {
     "access": "public"
