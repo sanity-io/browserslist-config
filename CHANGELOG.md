@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/sanity-io/browserslist-config/compare/v1.0.3...v1.0.4) (2024-12-18)
+
+
+### Bug Fixes
+
+* increase to `0.3%` of used browsers ([#40](https://github.com/sanity-io/browserslist-config/issues/40)) ([b9d4ef0](https://github.com/sanity-io/browserslist-config/commit/b9d4ef0b7a9679cbe4b123064bbdb72b90a841e4))
+
 ## [1.0.3](https://github.com/sanity-io/browserslist-config/compare/v1.0.2...v1.0.3) (2024-02-21)
 
 ### Bug Fixes
