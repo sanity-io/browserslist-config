@@ -5,5 +5,8 @@ import config from '@sanity/browserslist-config'
 
 test('the config lints without warnings', () => {
   const result = lint(config)
-  assert.deepEqual(result.filter(item => !item.message.includes('China')), [])
+  assert.deepEqual(
+    result.filter((item) => !item.message.includes('China')),
+    [],
+  )
 })
